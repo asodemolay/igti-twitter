@@ -1,0 +1,16 @@
+{
+  "tweets": [
+    {
+      "id": "8nkeI_f",
+      "value": "É muito gostoso trabalhar com React!"
+    },
+    {
+      "id": "57bd329f-5f92-4e04-b6e6-0da97188bb08",
+      "value": "Angular tem um ecossistema nativamente mais completo que o React"
+    },
+    {
+      "id": "1YOxAv7",
+      "value": "Agora é esperar o Módulo 4, que trará o Vue. Será mesmo que ele Vue é uma mistura de React com Angular como já ouvi algumas pessoas comentando? Sinceramente, prefiro esperar para tirar minhas próprias conclusões e não ficar à mercê da opinião alheia. "
+    }
+  ]
+}
